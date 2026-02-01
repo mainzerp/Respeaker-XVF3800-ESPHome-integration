@@ -1,2 +1,17 @@
 local/
 *.pyc
+
+# Own Config
+my-respeaker-satellite.yaml
+
+# AI Assistant Documentation (private)
+instructions/
+project-definition.yaml
+copilot-instructions.md
+VERSION.md
+
+# Internal docs (development notes, not for public)
+docs/
+
+# Subagent documentation
+SubAgent docs/
