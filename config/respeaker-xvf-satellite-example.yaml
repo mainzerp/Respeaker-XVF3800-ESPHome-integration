@@ -1247,7 +1247,7 @@ microphone:
     bits_per_sample: 32bit
     i2s_mode: secondary
     i2s_audio_id: i2s_input
-    channel: stereo
+    channel: left  # Left channel = processed audio (AEC + Beamforming) from XVF3800
 
 speaker:
   # Hardware speaker output
